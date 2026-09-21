@@ -87,6 +87,7 @@ Introductory projects documenting foundational concepts in functional neuroimagi
 Selected research projects spanning clinical oncology research, psychological assessment, qualitative methodology, and quantitative analysis.
 
 → [Explore research](https://github.com/anam-zuber/anam-zuber-portfolio/tree/main/Research)
+
 ---
 
 ## Education
