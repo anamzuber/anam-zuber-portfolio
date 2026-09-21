@@ -47,9 +47,9 @@ Quantitative clinical research examining relationships between coping styles and
 
 ### Statistical & Programming
 
-- **SPSS** — quantitative statistical analysis
-- **R** — statistical programming and data analysis
-- **Git/GitHub** — version control and research portfolio development
+- **SPSS** = quantitative statistical analysis
+- **R** = statistical programming and data analysis
+- **Git/GitHub** - version control and research portfolio development
 
 ### Clinical Assessment
 
