@@ -4,7 +4,7 @@ Introductory MATLAB projects developed to build computational skills relevant to
 
 ## Projects
 
-### 01 — Reaction Time Data Analysis
+### 01 - Reaction Time Data Analysis
 
 A small educational project using simulated reaction-time data to demonstrate:
 
