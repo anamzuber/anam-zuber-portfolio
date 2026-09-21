@@ -119,4 +119,4 @@ with particular interest in the distinction between **subjective cognitive compl
 M.A. Clinical Psychology  
 India
 
-[LinkedIn](www.linkedin.com/in/anam-zuber-276615233) · [Email](mailto:anamzuber0018@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/anam-zuber-276615233) · [Email](mailto:anamzuber0018@gmail.com)
