@@ -68,25 +68,25 @@ Quantitative clinical research examining relationships between coping styles and
 
 Selected programming, statistical analysis, and data-oriented projects.
 
-→ [Explore R projects](https://github.com/anam-zuber/anam-zuber-portfolio/tree/main/R)
+→ [Explore R projects](https://github.com/anamzuber/anam-zuber-portfolio/tree/main/R)
 
 ### MATLAB
 
 Introductory programming projects developed as part of my ongoing computational skills development.
 
-→ [Explore MATLAB](https://github.com/anam-zuber/anam-zuber-portfolio/tree/main/MATLAB)
+→ [Explore MATLAB](https://github.com/anamzuber/anam-zuber-portfolio/tree/main/MATLAB)
 
 ### fMRI & Neuroimaging
 
 Introductory projects documenting foundational concepts in functional neuroimaging.
 
-→ [Explore fMRI](https://github.com/anam-zuber/anam-zuber-portfolio/tree/main/fMRI)
+→ [Explore fMRI](https://github.com/anamzuber/anam-zuber-portfolio/tree/main/fMRI)
 
 ### Research
 
 Selected research projects spanning clinical oncology research, psychological assessment, qualitative methodology, and quantitative analysis.
 
-→ [Explore research](https://github.com/anam-zuber/anam-zuber-portfolio/tree/main/Research)
+→ [Explore research](https://github.com/anamzuber/anam-zuber-portfolio/tree/main/Research)
 
 ---
 
