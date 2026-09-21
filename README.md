@@ -37,9 +37,9 @@ Quantitative clinical research examining relationships between coping styles and
 
 ### Additional Research
 
-- Projective assessment and psychological functioning
-- Psychometric assessment and clinical research
-- Research methodology and quantitative analysis
+- Projective Assessment and Psychological Functioning - Conducted research using the Human Figure Drawing Test (HFDT) to explore indicators associated with Elkind’s Personal Fable construct- omnipotence, invulnerability, and uniqueness-in first-year undergraduate students.
+- Psychological Assessment and Qualitative Analysis - Applied systematic HFDT scoring and mapped drawing indicators to theoretically defined psychological domains, using visual thematic and narrative analysis to examine patterns in participants’ drawings.
+- Research Methodology and Quantitative Analysis - Developed experience in research design, purposive sampling, structured coding of psychological assessment material, interpretation of assessment data, and quantitative analysis using SPSS.
 
 ---
 
